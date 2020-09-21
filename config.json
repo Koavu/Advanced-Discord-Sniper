@@ -1,0 +1,13 @@
+{
+    "token": "put-ur-token-here",
+    "on-alt": false,
+    "reedem-token": "put-ur-token-here",
+    "notification": true,
+
+    "delay-enabled": false,
+    "delay": 5,
+
+    "nitro_sniper": true,
+    "giveaway_sniper": true,
+    "privnote_sniper": true
+}
