@@ -5,3 +5,7 @@ Snipers Privnote codes too!
 and gives a notification when sniped a code!
 
 Enjoy <3
+
+Credits go to lnx
+
+Koavu
