@@ -1,7 +1,7 @@
 # Advanced-Discord-Sniper
 An fast nitro sniper by Lnx
 
-Sniper Privnote codes too!
+Snipes Privnote codes too!
 and gives a notification when sniped a code!
 
 Enjoy <3
